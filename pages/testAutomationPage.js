@@ -1,3 +1,5 @@
+import { expect } from '@playwright/test';
+
 export default class TestAutomationPage {
 
   constructor(page) {
